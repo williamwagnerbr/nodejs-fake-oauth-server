@@ -1,4 +1,4 @@
-# nodejs-oauth-fake-server
+# nodejs-fake-oauth-server
 A simple OAuth backend server for test your OAuth clients
 
 ## How install

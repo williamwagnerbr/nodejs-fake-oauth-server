@@ -1,12 +1,13 @@
 {
-  "name": "oauth2-client-tester",
+  "name": "nodejs-fake-oauth-server",
   "version": "0.0.1",
-  "description": "",
+  "description": "A simple OAuth backend server for test your OAuth clients",
   "main": "index.js",
   "scripts": {
-    "start": "browser-refresh server.js"
+    "dev": "browser-refresh server.js",
+    "start": "nodejs server.js"
   },
-  "author": "William Wagner",
+  "author": "William Wagner <williamwagnerbr>",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
