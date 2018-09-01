@@ -1,0 +1,27 @@
+{
+  "name": "oauth2-client-tester",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-refresh server.js"
+  },
+  "author": "William Wagner",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "copy-webpack-plugin": "^4.5.2",
+    "express": "^4.16.3",
+    "file-loader": "^2.0.0",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "marko": "^4.13.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "uuid": "^3.3.2",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0"
+  }
+}

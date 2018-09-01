@@ -1,0 +1,17 @@
+[
+  {
+    "id": "160",
+    "name": "William Wagner",
+    "email": "william.wagner.br@gmail.com",
+    "age": 21,
+    "gender": "male",
+    "plan": "free"
+  },
+  {
+    "name": "Patrícia Trindade",
+    "email": "patricia.trindade@example.com",
+    "age": 18,
+    "gender": "female",
+    "plan": "premium"
+  }
+]

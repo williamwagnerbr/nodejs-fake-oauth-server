@@ -1,0 +1,20 @@
+[  
+  {
+    "name": "OAuth2 Client Tester",
+    "consumer_key": "123",
+    "consumer_secret": "456",
+    "callbacks": {
+      "new-authorization": "http://localhost:9014/callbacks/new-authorization",
+      "rem-authorization": "http://localhost:9014/callbacks/rem-authorization"
+    }
+  },
+  {
+    "name": "Google Drive",
+    "consumer_key": "abc",
+    "consumer_secret": "def",
+    "callbacks": {
+      "new-authorization": "http://localhost:9007/integration/private/oauth2-client-tester/new-authorization",
+      "rem-authorization": "http://localhost:9007/integration/private/oauth2-client-tester/rem-authorization"
+    }
+  }
+]
